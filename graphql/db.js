@@ -29,6 +29,11 @@ let movies =
         id: 5,
         name: "클래식3",
         score: 123
+    },
+    {
+	id: 6,
+        name: "소림축구",
+	score: 98
     }
 ];
 
